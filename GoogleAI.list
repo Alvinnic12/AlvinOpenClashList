@@ -1,7 +1,33 @@
-DOMAIN-KEYWORD,notebooklm
-DOMAIN-KEYWORD,gemini
-DOMAIN-KEYWORD,openrouter
-DOMAIN-KEYWORD,colab
-DOMAIN-KEYWORD,developerprofiles
-DOMAIN-KEYWORD,generativelanguage
+# AI Studio (formerly MakerSuite) and Development Platforms
 DOMAIN-KEYWORD,aistudio
+DOMAIN-KEYWORD,makersuite
+DOMAIN-SUFFIX,ai.dev
+DOMAIN-SUFFIX,studio.bot
+DOMAIN-SUFFIX,cloudcode-pa.googleapis.com
+
+# Gemini
+DOMAIN-SUFFIX,gemini.google.com
+DOMAIN-KEYWORD,gemini
+
+# NotebookLM
+DOMAIN-SUFFIX,notebooklm.google.com
+DOMAIN-KEYWORD,notebooklm
+
+# Google AI & Generative Language
+DOMAIN-SUFFIX,ai.google
+DOMAIN-SUFFIX,deepmind.google
+DOMAIN-SUFFIX,generativelanguage.googleapis.com
+DOMAIN-KEYWORD,generativelanguage
+
+# Google Cloud AI & Vertex AI
+DOMAIN-SUFFIX,aiplatform.googleapis.com
+DOMAIN-SUFFIX,cloud.google.com/ai
+DOMAIN-KEYWORD,vertexai
+
+# Google Colab
+DOMAIN-SUFFIX,colab.research.google.com
+DOMAIN-SUFFIX,colab.google
+DOMAIN-KEYWORD,colab
+
+# Other Related Developer Services
+DOMAIN-KEYWORD,developerprofiles
