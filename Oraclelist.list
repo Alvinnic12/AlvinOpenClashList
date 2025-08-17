@@ -1,0 +1,32 @@
+# Oracle Cloud Infrastructure (OCI) - General
+DOMAIN-SUFFIX,oraclecloud.com
+DOMAIN-SUFFIX,oracle.com
+DOMAIN-SUFFIX,oci.oraclecloud.com
+DOMAIN-KEYWORD,oraclecloud
+DOMAIN-KEYWORD,oci
+
+# OCI Identity & Access Management (IAM)
+DOMAIN-SUFFIX,identity.oraclecloud.com
+DOMAIN-KEYWORD,identitydomains
+
+# OCI Virtual Cloud Network (VCN) - Internal DNS
+DOMAIN-SUFFIX,oraclevcn.com
+DOMAIN-KEYWORD,oraclevcn
+
+# OCI Object Storage
+DOMAIN-SUFFIX,objectstorage.oraclecloud.com
+
+# OCI API Gateways
+DOMAIN-SUFFIX,apigateway.oraclecloud.com
+
+# Oracle Cloud Functions
+DOMAIN-SUFFIX,functions.oraclecloud.com
+
+# Oracle Analytics Cloud
+DOMAIN-SUFFIX,analytics.ocp.oraclecloud.com
+
+# Oracle Digital Assistant
+DOMAIN-SUFFIX,digitalassistant.oci.oraclecloud.com
+
+# Oracle Integration Cloud
+DOMAIN-SUFFIX,integration.ocp.oraclecloud.com
