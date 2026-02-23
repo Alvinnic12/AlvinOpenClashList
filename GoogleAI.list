@@ -1,28 +1,85 @@
-# AI Studio (formerly MakerSuite) and Development Platforms
-DOMAIN-KEYWORD,perplexity
+# =============================================
+# OpenAI / ChatGPT / Sora
+# =============================================
+DOMAIN-KEYWORD,openai
+DOMAIN-SUFFIX,openai.com
+DOMAIN-SUFFIX,chatgpt.com
+DOMAIN-SUFFIX,sora.com
+DOMAIN-SUFFIX,oaistatic.com
+DOMAIN-SUFFIX,oaiusercontent.com
+DOMAIN-SUFFIX,openaiapi-site.azureedge.net
+DOMAIN-SUFFIX,openaicom-api-bdcpf8c6d2e9b1e5.z01.azurefd.net
+DOMAIN-SUFFIX,openaicomproductionae4b.blob.core.windows.net
+DOMAIN-SUFFIX,production-openaicom-storage.azureedge.net
+DOMAIN-SUFFIX,o]penai.com
+# OpenAI auth & infrastructure dependencies
+DOMAIN-SUFFIX,auth0.com
+DOMAIN-SUFFIX,challenges.cloudflare.com
+DOMAIN-SUFFIX,client-api.arkoselabs.com
+DOMAIN-SUFFIX,events.statsigapi.net
+DOMAIN-SUFFIX,featuregates.org
+DOMAIN-SUFFIX,identrust.com
+DOMAIN-SUFFIX,intercom.io
+DOMAIN-SUFFIX,intercomcdn.com
+DOMAIN-SUFFIX,sentry.io
+DOMAIN-SUFFIX,stripe.com
+# OpenAI API endpoints (Azure-hosted)
+DOMAIN-KEYWORD,openaicom
+DOMAIN-KEYWORD,oaiusercontent
+DOMAIN-KEYWORD,oaistatic
+
+# =============================================
+# Anthropic / Claude
+# =============================================
+DOMAIN-KEYWORD,anthropic
+DOMAIN-KEYWORD,claude
+DOMAIN-SUFFIX,anthropic.com
+DOMAIN-SUFFIX,claude.ai
+DOMAIN-SUFFIX,consoleanthropiccom.com
+# Anthropic CDN & API infrastructure
+DOMAIN-SUFFIX,anthropic-ai.com
+DOMAIN-SUFFIX,claudeusercontent.com
+DOMAIN-SUFFIX,claudecontentfiltering.ai
+DOMAIN-SUFFIX,anthropic.cloud
+# Anthropic uses these for auth/payments/infra
+DOMAIN-SUFFIX,clerk.com
+DOMAIN-SUFFIX,statsig.com
+DOMAIN-SUFFIX,statsigapi.net
+DOMAIN-SUFFIX,intercom.help
+# Anthropic API proxied via AWS
+DOMAIN-KEYWORD,anthropiccdn
+DOMAIN-KEYWORD,claudeai
+
+# =============================================
+# Google AI / Gemini / DeepMind / Colab / NotebookLM
+# =============================================
+# Gemini
+DOMAIN-SUFFIX,gemini.google.com
+DOMAIN-KEYWORD,gemini
+
+# AI Studio / MakerSuite
 DOMAIN-KEYWORD,aistudio
 DOMAIN-KEYWORD,makersuite
 DOMAIN-SUFFIX,ai.dev
 DOMAIN-SUFFIX,studio.bot
-DOMAIN-SUFFIX,cloudcode-pa.googleapis.com
-
-# Gemini
-DOMAIN-SUFFIX,gemini.google.com
-DOMAIN-KEYWORD,gemini
+DOMAIN-SUFFIX,aistudio.google.com
 
 # NotebookLM
 DOMAIN-SUFFIX,notebooklm.google.com
 DOMAIN-KEYWORD,notebooklm
 
-# Google AI & Generative Language
+# Google AI & DeepMind
 DOMAIN-SUFFIX,ai.google
+DOMAIN-SUFFIX,ai.google.dev
 DOMAIN-SUFFIX,deepmind.google
+DOMAIN-SUFFIX,deepmind.com
 DOMAIN-SUFFIX,generativelanguage.googleapis.com
 DOMAIN-KEYWORD,generativelanguage
 
-# Google Cloud AI & Vertex AI
+# Vertex AI & Cloud AI
 DOMAIN-SUFFIX,aiplatform.googleapis.com
-DOMAIN-SUFFIX,cloud.google.com/ai
+DOMAIN-SUFFIX,autopush-aiplatform-pa.googleapis.com
+DOMAIN-SUFFIX,cloudcode-pa.googleapis.com
 DOMAIN-KEYWORD,vertexai
 
 # Google Colab
@@ -30,5 +87,14 @@ DOMAIN-SUFFIX,colab.research.google.com
 DOMAIN-SUFFIX,colab.google
 DOMAIN-KEYWORD,colab
 
-# Other Related Developer Services
+# Google Labs / Experiments
+DOMAIN-SUFFIX,labs.google
+DOMAIN-SUFFIX,labs.google.com
+DOMAIN-KEYWORD,googlelabs
+
+# Perplexity (if you still want this here)
+DOMAIN-KEYWORD,perplexity
+DOMAIN-SUFFIX,perplexity.ai
+
+# Other Google dev services
 DOMAIN-KEYWORD,developerprofiles
