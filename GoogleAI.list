@@ -98,3 +98,10 @@ DOMAIN-SUFFIX,perplexity.ai
 
 # Other Google dev services
 DOMAIN-KEYWORD,developerprofiles
+
+# =============================================
+# Groq Cloud (LPU Inference / Whisper API)
+# =============================================
+DOMAIN-SUFFIX,groq.com
+DOMAIN-KEYWORD,groq
+DOMAIN-SUFFIX,groqcloud.com
