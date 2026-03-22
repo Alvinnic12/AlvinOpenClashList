@@ -102,6 +102,7 @@ DOMAIN-KEYWORD,developerprofiles
 # =============================================
 # Groq Cloud (LPU Inference / Whisper API)
 # =============================================
+DOMAIN,api.groq.com
+DOMAIN,console.groq.com
 DOMAIN-SUFFIX,groq.com
-DOMAIN-KEYWORD,groq
 DOMAIN-SUFFIX,groqcloud.com
