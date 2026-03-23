@@ -106,3 +106,9 @@ DOMAIN,api.groq.com
 DOMAIN,console.groq.com
 DOMAIN-SUFFIX,groq.com
 DOMAIN-SUFFIX,groqcloud.com
+
+# =============================================
+# OpenRouter (LLM API Gateway)
+# =============================================
+DOMAIN,openrouter.ai
+DOMAIN-SUFFIX,openrouter.ai
