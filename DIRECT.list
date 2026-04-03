@@ -1,0 +1,13 @@
+# Alvin Custom Direct Rules
+# Domains that should bypass proxy and connect directly
+
+# MinerU / OpenXLab CDN
+DOMAIN-SUFFIX,openxlab.org.cn
+DOMAIN-SUFFIX,openxlab.org
+DOMAIN-SUFFIX,cdngslb.com
+
+# Synology NAS
+DOMAIN-SUFFIX,synology.com
+DOMAIN-SUFFIX,synology.me
+DOMAIN-SUFFIX,quickconnect.to
+DOMAIN-SUFFIX,quickconnect.cn
