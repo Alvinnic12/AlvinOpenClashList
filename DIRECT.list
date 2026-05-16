@@ -11,3 +11,9 @@ DOMAIN-SUFFIX,synology.com
 DOMAIN-SUFFIX,synology.me
 DOMAIN-SUFFIX,quickconnect.to
 DOMAIN-SUFFIX,quickconnect.cn
+
+# Xiaomi / Mi Home (account auth, MiHome cloud API, Mijia devices)
+DOMAIN-SUFFIX,xiaomi.com
+DOMAIN-SUFFIX,mi.com
+DOMAIN-SUFFIX,mijia.com
+DOMAIN-SUFFIX,miui.com
