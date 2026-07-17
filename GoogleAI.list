@@ -70,14 +70,6 @@ DOMAIN-SUFFIX,perplexity.ai
 DOMAIN-KEYWORD,developerprofiles
 
 # =============================================
-# Groq Cloud (LPU Inference / Whisper API)
-# =============================================
-DOMAIN,api.groq.com
-DOMAIN,console.groq.com
-DOMAIN-SUFFIX,groq.com
-DOMAIN-SUFFIX,groqcloud.com
-
-# =============================================
 # OpenRouter (LLM API Gateway)
 # =============================================
 DOMAIN,openrouter.ai
