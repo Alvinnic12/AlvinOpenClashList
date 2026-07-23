@@ -17,3 +17,6 @@ DOMAIN-SUFFIX,xiaomi.com
 DOMAIN-SUFFIX,mi.com
 DOMAIN-SUFFIX,mijia.com
 DOMAIN-SUFFIX,miui.com
+
+# Shinhan Financial Group (proxy exits misroute the Korean origin)
+DOMAIN-SUFFIX,shinhangroup.com
