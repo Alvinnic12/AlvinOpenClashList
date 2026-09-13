@@ -39,3 +39,8 @@ DOMAIN,o33249.ingest.sentry.io
 DOMAIN,rum.browser-intake-datadoghq.com
 DOMAIN,humb.apple.com
 DOMAIN,workos.imgix.net
+
+# Groq Cloud (LPU Inference / Whisper API)
+DOMAIN,api.groq.com
+DOMAIN,console.groq.com
+DOMAIN-SUFFIX,groq.com
