@@ -1,26 +1,4 @@
 # =============================================
-# Anthropic / Claude
-# =============================================
-DOMAIN-KEYWORD,anthropic
-DOMAIN-KEYWORD,claude
-DOMAIN-SUFFIX,anthropic.com
-DOMAIN-SUFFIX,claude.ai
-DOMAIN-SUFFIX,consoleanthropiccom.com
-# Anthropic CDN & API infrastructure
-DOMAIN-SUFFIX,anthropic-ai.com
-DOMAIN-SUFFIX,claudeusercontent.com
-DOMAIN-SUFFIX,claudecontentfiltering.ai
-DOMAIN-SUFFIX,anthropic.cloud
-# Anthropic uses these for auth/payments/infra
-DOMAIN-SUFFIX,clerk.com
-DOMAIN-SUFFIX,statsig.com
-DOMAIN-SUFFIX,statsigapi.net
-DOMAIN-SUFFIX,intercom.help
-# Anthropic API proxied via AWS
-DOMAIN-KEYWORD,anthropiccdn
-DOMAIN-KEYWORD,claudeai
-
-# =============================================
 # Google AI / Gemini / DeepMind / Colab / NotebookLM
 # =============================================
 # Gemini

@@ -1,0 +1,18 @@
+# Anthropic / Claude web, desktop, Code, Console, API and first-party assets
+DOMAIN-KEYWORD,anthropic
+DOMAIN-KEYWORD,claude
+DOMAIN-SUFFIX,anthropic.com
+DOMAIN-SUFFIX,claude.ai
+DOMAIN-SUFFIX,claude.com
+DOMAIN-SUFFIX,anthropic-ai.com
+DOMAIN-SUFFIX,anthropic.cloud
+DOMAIN-SUFFIX,claudeusercontent.com
+DOMAIN-SUFFIX,claudecontentfiltering.ai
+DOMAIN-SUFFIX,consoleanthropiccom.com
+DOMAIN-KEYWORD,anthropiccdn
+DOMAIN-KEYWORD,claudeai
+# Shared services previously used by the Claude web sign-in and support flow
+DOMAIN-SUFFIX,clerk.com
+DOMAIN-SUFFIX,statsig.com
+DOMAIN-SUFFIX,statsigapi.net
+DOMAIN-SUFFIX,intercom.help
