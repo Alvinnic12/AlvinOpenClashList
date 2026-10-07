@@ -20,3 +20,9 @@ DOMAIN-SUFFIX,miui.com
 
 # Shinhan Financial Group (proxy exits misroute the Korean origin)
 DOMAIN-SUFFIX,shinhangroup.com
+
+# LabWorks public gateway: avoid the slow proxy hop before Oracle/FRP
+DOMAIN,lab.alvinnic.dpdns.org
+
+# GitHub release assets uploaded by LabWorks on .88 only
+AND,((SRC-IP-CIDR,192.168.1.88/32),(DOMAIN,uploads.github.com))
