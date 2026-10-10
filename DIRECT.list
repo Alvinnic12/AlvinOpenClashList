@@ -22,7 +22,9 @@ DOMAIN-SUFFIX,miui.com
 DOMAIN-SUFFIX,shinhangroup.com
 
 # LabWorks public gateway: avoid the slow proxy hop before Oracle/FRP
-DOMAIN,lab.alvinnic.dpdns.org
+DOMAIN-SUFFIX,alvinnic.dpdns.org
+IP-CIDR,168.107.55.139/32,no-resolve
 
-# GitHub release assets uploaded by LabWorks on .88 only
+# GitHub release uploads from production Mac .101 and comparison .88
 AND,((SRC-IP-CIDR,192.168.1.88/32),(DOMAIN,uploads.github.com))
+AND,((SRC-IP-CIDR,192.168.1.101/32),(DOMAIN,uploads.github.com))
