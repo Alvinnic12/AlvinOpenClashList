@@ -2,16 +2,12 @@
 DOMAIN-SUFFIX,oraclecloud.com
 DOMAIN-SUFFIX,oracle.com
 DOMAIN-SUFFIX,oci.oraclecloud.com
-DOMAIN-KEYWORD,oraclecloud
-DOMAIN-KEYWORD,oci
 
 # OCI Identity & Access Management (IAM)
 DOMAIN-SUFFIX,identity.oraclecloud.com
-DOMAIN-KEYWORD,identitydomains
 
 # OCI Virtual Cloud Network (VCN) - Internal DNS
 DOMAIN-SUFFIX,oraclevcn.com
-DOMAIN-KEYWORD,oraclevcn
 
 # OCI Object Storage
 DOMAIN-SUFFIX,objectstorage.oraclecloud.com
